@@ -15,3 +15,8 @@ of MAIL
 - Junjie Wang, [Meta Learning](20190524/JunjieWang-MetaLearning.pdf)
 - Heng Li, [DeepNeural Networks Improve Radiologists](20190524HengLi-DeepNeuralNetworksImproveRadiologists.pdf)
 
+## 2019.6.6
+
+- Yun Hua, [Taskonomy_CVPR18_slides](20190606/Taskonomy_CVPR18_slides.pdf)
+- Weiwen Chen, [tossingbot](20190606/WeiwenChen-tossingbot.pdf)
+
