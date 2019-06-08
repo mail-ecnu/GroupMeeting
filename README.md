@@ -17,6 +17,6 @@ of MAIL
 
 ## 2019.6.6
 
-- Yun Hua, [Taskonomy_CVPR18_slides](20190606/Taskonomy_CVPR18_slides.pdf)
+- Yun Hua, [Taskonomy](20190606/YunHua-Taskonomy.pdf)
 - Weiwen Chen, [tossingbot](20190606/WeiwenChen-tossingbot.pdf)
 
