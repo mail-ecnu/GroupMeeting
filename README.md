@@ -13,6 +13,7 @@ of MAIL
 
 - Hongjun Chen, [Jetbot_Ros](20190917/HongjunChen-Jetbot_Ros.pdf)
 - Tingyu Wu, [CS224N-lec1: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture1.pdf)
+- JunjieWang, [Few_Shot_Generative_Model](20190917/JunjieWang-Few_Shot_Generative_Model.pdf)
 
 ## 2019.06.13
 
