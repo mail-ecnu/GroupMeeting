@@ -2,6 +2,19 @@
 
 of MAIL
 
+## 2019.10.08
+
+After Guoqing
+
+- YunHua, [Reward Shaping](20191008/YunHua-RewardShaping.pdf)
+- Zhiqian Li, [cs231n-lec3-LossFunction](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture03.pdf)
+- Shuo Wang, [DATRS](20191008/ShuoWang-DATRS.pdf)
+- Weiwen Chen, [Robotics Arms Work](20191008/WeiwenChen-arms1008.pdf)
+- JunyiCheng, [Designing Neural Network Architectures Using Reinforcement Learning](20191008/JunyiCheng-DesigningNeuralNetworkArchitecturesUsingReinforcementLearning.pdf)
+- Wei Wang, [Neural architecture search with reinforcement learning](20191008/WeiWang-NeuralArchitectureSearchWithRL.pdf)
+
+
+
 ## 2019.09.24
 
 - Jia Lin, [cs224N-lec2: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture2.pdf)
