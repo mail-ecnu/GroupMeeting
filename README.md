@@ -2,15 +2,21 @@
 
 of MAIL
 
+## 2019.10.15
+
+- Tingyu Wu, [cs224n-lec3-neuralnets](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture03-neuralnets.pdf)
+- Jarvis, [Emergent Tool Use From MULTI- AGENT AUTOCURRICULA](20191015/AutoCurri_compressed.pdf)
+- Wu Qian, [Probabilistic Learning and Inference Using Stein Discrepancy](20191015/20191015-wuqian-stein.pdf)
+
 ## 2019.10.08
 
 After Guoqing
 
-- YunHua, [Reward Shaping](20191008/YunHua-RewardShaping.pdf)
+- Yun Hua, [Reward Shaping](20191008/YunHua-RewardShaping.pdf)
 - Zhiqian Li, [cs231n-lec3-LossFunction](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture03.pdf)
-- Shuo Wang, [DATRS](20191008/ShuoWang-DATRS.pdf)
+- Shuo Wang, [DARTS](20191008/ShuoWang-DARTS.pdf)
 - Weiwen Chen, [Robotics Arms Work](20191008/WeiwenChen-arms1008.pdf)
-- JunyiCheng, [Designing Neural Network Architectures Using Reinforcement Learning](20191008/JunyiCheng-DesigningNeuralNetworkArchitecturesUsingReinforcementLearning.pdf)
+- Junyi Cheng, [Designing Neural Network Architectures Using Reinforcement Learning](20191008/JunyiCheng-DesigningNeuralNetworkArchitecturesUsingReinforcementLearning.pdf)
 - Wei Wang, [Neural architecture search with reinforcement learning](20191008/WeiWang-NeuralArchitectureSearchWithRL.pdf)
 
 
