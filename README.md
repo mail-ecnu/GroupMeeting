@@ -2,6 +2,12 @@
 
 of MAIL
 
+## 2019.10.29
+
+- Youtao Jia, [cs231n-lec5](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture05.pdf)
+- Jia Lin, [cs224n-lec6: LanguageModelsAndRNN](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture06-rnnlm.pdf)
+- Shang Gao, [ImageHazeRemoval-Compressed](20191029/ShangGao-ImageHazeRemoval-Compressed.pdf)
+
 ## 2019.10.15
 
 - Tingyu Wu, [cs224n-lec3-neuralnets](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture03-neuralnets.pdf)
