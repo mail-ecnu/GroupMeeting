@@ -2,6 +2,13 @@
 
 of MAIL
 
+## 2019.11.05
+
+- Tingyu Wu, [cs224n-lec7-fancy-rnn](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture07-fancy-rnn.pdf)
+- Zhiqian Li,[cs231n-lec6](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture06.pdf)
+- Chuyun Shen, [Penalizing Unfairness in Binary Classification](20191105/PenalizingUnfairnessinBinaryClassification.pdf)
+
+
 ## 2019.10.29
 
 - Youtao Jia, [cs231n-lec5](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture05.pdf)
