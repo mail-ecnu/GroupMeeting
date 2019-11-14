@@ -2,12 +2,17 @@
 
 of MAIL
 
+## 2019.11.12
+
+- YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
+- ShangGao [GuidedImageFilter-Compressed](20191112/ShangGao-GuidedImageFilter-Compressed.pdf)
+- Hongjun Chen, [Online Convex Optimization in Adversarial MDPs](20191112/HongjunChen-OnlineConvexOptimization_inAdversarialMDPs.pdf)
+
 ## 2019.11.05
 
 - Tingyu Wu, [cs224n-lec7-fancy-rnn](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture07-fancy-rnn.pdf)
 - Zhiqian Li,[cs231n-lec6](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture06.pdf)
 - Chuyun Shen, [Penalizing Unfairness in Binary Classification](20191105/PenalizingUnfairnessinBinaryClassification.pdf)
-
 
 ## 2019.10.29
 
