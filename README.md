@@ -2,6 +2,22 @@
 
 of MAIL
 
+大家发ppt给我的时候转码成pdf，文件名不要包含空格和特殊字符，尽量把文件size压缩到1M以内，ppt导出的时候选择“最小”，如果依然很大可以google“pdf压缩”。；如果是讲课的直接给我cs-xxx的人家的pdf链接就行了
+
+组会结束后发我pdf和这一行，如果是讲课的直接给我一行，格式 `- name, [pre-title](date/file-name)`
+
+Example
+
+```
+- Wenhao Li, [OFF-POLICY_POLICY_EVALUATION](20191119/OFF-POLICY_POLICY_EVALUATION.pdf)
+- YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
+```
+
+## 2019.11.19
+
+- Junjie Wang, [unsupervised image-to-image translation](20191119/JunjieWang-Few-Shot_Unsupervised_Image-to-Image_Translation.pdf)
+- Wenhao Li, [OFF-POLICY_POLICY_EVALUATION](20191119/OFF-POLICY_POLICY_EVALUATION.pdf)
+
 ## 2019.11.12
 
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
