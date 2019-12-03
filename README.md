@@ -13,6 +13,12 @@ Example
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
 ```
 
+## 2019.12.3
+
+- Xin Li, [UnsupervisedRepresentationLearning](20191203/UnsupervisedRepresentationLearning.pdf)
+- Weiwen Chen, [Self-Supervised Representation Learning](20191203/Self-SupervisedRepresentationLearning_compressed.pdf)
+- Yun Hua, [Meta Reinforce ment Learning](20191203/MetaReinforcementLearning.pdf)
+
 ## 2019.11.26
 
 - Jarvis, [deep KMeans](20191126/deepKMeans_compressed.pdf)
