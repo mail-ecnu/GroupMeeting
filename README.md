@@ -13,6 +13,10 @@ Example
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
 ```
 
+## 2019.12.10
+
+- Shuo Wang, [SinGAN](20191210/SinGAN.pdf)
+
 ## 2019.12.3
 
 - Xin Li, [UnsupervisedRepresentationLearning](20191203/UnsupervisedRepresentationLearning.pdf)
