@@ -15,6 +15,7 @@ Example
 
 ## 2019.12.10
 
+- Wei Wang, [AlphaGo_Zero](20191210/AlphaGo_Zero.pdf)
 - Shuo Wang, [SinGAN](20191210/SinGAN.pdf)
 
 ## 2019.12.3
