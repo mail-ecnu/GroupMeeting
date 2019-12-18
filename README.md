@@ -18,7 +18,9 @@ Example
 - Tingyu Wu, [FederatedAveraging](20191217/FederatedAveraging.pdf)
 - Chuyun Shen, [Markov-Chain-Monte-Carlo](20191217/Markov-Chain-Monte-Carlo.pdf)
 - Zhikai Zhang, [Pedestrian-Detection](20191217/Pedestrian-Detection.pdf)
-- - Hongjun Chen,[RL-in-Extraction-Summary](20191217/RL-in-Extraction-Summary.pdf
+- Hongjun Chen,[RL-in-Extraction-Summary](20191217/RL-in-Extraction-Summary.pdf)
+- Shang Gao, [Attention Is All You Need](20191217/20191219-ShangGao-AttentionIsAllYouNeed_compressed.pdf)
+
 
 ## 2019.12.10
 
