@@ -13,6 +13,10 @@ Example
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
 ```
 
+## 2019.12.31
+
+- Weiwen Chen, [Visual Language Navigation](20191231/VLN_compressed.pdf)
+
 ## 2019.12.24
 
 - YouTao Jia,[FCN,U-Net](20191224/FCN_U-Net.pdf)
