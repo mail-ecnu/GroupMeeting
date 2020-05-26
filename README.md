@@ -12,6 +12,10 @@ Example
 - Wenhao Li, [OFF-POLICY_POLICY_EVALUATION](20191119/OFF-POLICY_POLICY_EVALUATION.pdf)
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
 ```
+## 2020.05
+
+- Weiwen Chen, [牛顿法练习](202005/newton.pdf)
+- Weiwen Chen, [Fusion in FCN](202005/Fusion_in_FCN_v1.0.pdf)
 
 ## 2019.12.24
 
