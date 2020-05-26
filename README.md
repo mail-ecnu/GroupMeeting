@@ -17,6 +17,10 @@ Example
 - Weiwen Chen, [牛顿法练习](202005/newton.pdf)
 - Weiwen Chen, [Fusion in FCN](202005/Fusion_in_FCN_v1.0.pdf)
 
+## 2019.12.31
+
+- Weiwen Chen, [Visual Language Navigation](20191231/VLN_compressed.pdf)
+
 ## 2019.12.24
 
 - YouTao Jia,[FCN,U-Net](20191224/FCN_U-Net.pdf)
