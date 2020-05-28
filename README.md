@@ -16,6 +16,7 @@ Example
 
 - Weiwen Chen, [牛顿法练习](202005/newton.pdf)
 - Weiwen Chen, [Fusion in FCN](202005/Fusion_in_FCN_v1.0.pdf)
+- Weiwen Chen, [VAE](202005/VAE.pdf)
 
 ## 2019.12.31
 
