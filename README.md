@@ -14,6 +14,7 @@ Example
 ```
 ## 2020.05
 
+- Weiwen Chen, [Golden Select Method](202005/golden_select_method.pdf)
 - Weiwen Chen, [牛顿法练习](202005/newton.pdf)
 - Weiwen Chen, [Fusion in FCN](202005/Fusion_in_FCN_v1.0.pdf)
 - Weiwen Chen, [VAE](202005/VAE.pdf)
