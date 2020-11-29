@@ -12,6 +12,11 @@ Example
 - Wenhao Li, [OFF-POLICY_POLICY_EVALUATION](20191119/OFF-POLICY_POLICY_EVALUATION.pdf)
 - YouTao Jia,[cs231n-lec7-Training Neural Networks](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture07.pdf)
 ```
+
+## 2020.11
+
+- 何炳生 教授, [凸优化的一些典型问题及其求解方法](https://github.com/mail-ecnu/GroupMeeting/tree/master/202011)
+
 ## 2020.06
 
 - Weiwen Chen [无约束优化与神经网络 example](202006/EngineeringMath_week14.py)
